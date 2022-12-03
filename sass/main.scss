@@ -12,14 +12,11 @@
     text-decoration: none;
     color: black;
     
-    
     }
 
     ul {
         list-style: none;
     }
-    
-
 
 .lista-footer {
 
@@ -56,8 +53,11 @@
 #icono-house {
     font-size: 5vh;
 }
+p > b:hover {
+    color: orangered;
+    font-size: 20px;
+}
 
-        
 
 /* Estilos -Galeria de fotos*/
 #galeria {
